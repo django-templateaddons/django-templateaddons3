@@ -2,6 +2,7 @@ from setuptools import setup, find_packages
 
 install_requires = [
     'Django>=1.8',
+    'six>=1.16.0',
 ]
 
 
